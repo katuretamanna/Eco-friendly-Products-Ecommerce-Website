@@ -17,7 +17,7 @@ This is a web-based platform designed to promote sustainability by offering eco-
 ## Technologies Used
 - HTML
 - CSS
-- JS
+- JavaScript
 
 ## File Structure
 - **css/**: Contains all the CSS files for styling.
