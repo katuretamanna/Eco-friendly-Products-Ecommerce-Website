@@ -15,7 +15,9 @@ This is a web-based platform designed to promote sustainability by offering eco-
 - **Product Display**: Detailed pages for each product, showcasing eco-friendly attributes.
 
 ## Technologies Used
-- Front-end and back-end technologies (specific technologies not listed by request).
+- HTML
+- CSS
+- JS
 
 ## File Structure
 - **css/**: Contains all the CSS files for styling.
